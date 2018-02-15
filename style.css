@@ -4,10 +4,6 @@ body {
     color: white;
 }
 
-#notreal {
-    color: pink;
-}
-
 header { 
     background-color:rgb(25, 182, 202);
     z-index: 100; 
